@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
-
-# Basics
+# TESLA
 
 Discover the **basic** principles

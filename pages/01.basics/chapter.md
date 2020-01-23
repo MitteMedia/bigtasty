@@ -7,4 +7,4 @@ child_type: docs
 
 # TESLA
 
-Discover the **basic** principles
+https://en.m.wikipedia.org/wiki/File:Tesla_Motors.svg
